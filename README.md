@@ -49,3 +49,5 @@ The project is implemented as a complete KNIME workflow covering:
 1.  Clone this repo.
 2.  Import the `.knwf` file into **KNIME Analytics Platform**.
 3.  Execute the workflow to reproduce the cleaning, modeling, and scoring steps.
+OR
+access at https://hub.knime.com/s/EMExIeg2lR1PnepV thorugh KNIME community hub
